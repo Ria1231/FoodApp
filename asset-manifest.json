@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FoodApp/static/css/main.c92a5744.chunk.css",
+    "main.js": "/FoodApp/static/js/main.a127b6b9.chunk.js",
+    "main.js.map": "/FoodApp/static/js/main.a127b6b9.chunk.js.map",
+    "runtime-main.js": "/FoodApp/static/js/runtime-main.c6351f76.js",
+    "runtime-main.js.map": "/FoodApp/static/js/runtime-main.c6351f76.js.map",
+    "static/css/2.ce7993c8.chunk.css": "/FoodApp/static/css/2.ce7993c8.chunk.css",
+    "static/js/2.9631ff59.chunk.js": "/FoodApp/static/js/2.9631ff59.chunk.js",
+    "static/js/2.9631ff59.chunk.js.map": "/FoodApp/static/js/2.9631ff59.chunk.js.map",
+    "index.html": "/FoodApp/index.html",
+    "static/css/2.ce7993c8.chunk.css.map": "/FoodApp/static/css/2.ce7993c8.chunk.css.map",
+    "static/css/main.c92a5744.chunk.css.map": "/FoodApp/static/css/main.c92a5744.chunk.css.map",
+    "static/js/2.9631ff59.chunk.js.LICENSE.txt": "/FoodApp/static/js/2.9631ff59.chunk.js.LICENSE.txt",
+    "static/media/Delivery.a8a9823d.svg": "/FoodApp/static/media/Delivery.a8a9823d.svg",
+    "static/media/EmptyCard.d8cf5f65.svg": "/FoodApp/static/media/EmptyCard.d8cf5f65.svg",
+    "static/media/EmptyOrder.76bf3811.svg": "/FoodApp/static/media/EmptyOrder.76bf3811.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6351f76.js",
+    "static/css/2.ce7993c8.chunk.css",
+    "static/js/2.9631ff59.chunk.js",
+    "static/css/main.c92a5744.chunk.css",
+    "static/js/main.a127b6b9.chunk.js"
+  ]
+}
